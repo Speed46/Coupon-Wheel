@@ -1,0 +1,28 @@
+
+
+
+   .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  #wheel-container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    margin-bottom: 20px;
+  }
+  
+  #spin-btn {
+    padding: 10px 20px;
+    font-size: 18px;
+  }
+  
+  #final-value {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
