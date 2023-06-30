@@ -11,7 +11,7 @@ const finalValue = document.getElementById("final-value");
 // Object that stores values of minimum and maximum angle for a value
 const rotationValues = [
   { minDegree: 0, maxDegree: 30, value: "🔁 Try Again" },
-  { minDegree: 31, maxDegree: 90, value: "💰 60% 0ff" },
+  { minDegree: 31, maxDegree: 90, value: "💰 2000 Rs" },
   { minDegree: 91, maxDegree: 150, value: "🎁 Scratch Card" },
   { minDegree: 151, maxDegree: 210, value: "💻 Laptop" },
   { minDegree: 211, maxDegree: 270, value: "💰 10,000 Rs" },
